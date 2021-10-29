@@ -1,0 +1,13 @@
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/obj/Debug/netcoreapp3.1/VaribleExercise.csproj.AssemblyReference.cache
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/obj/Debug/netcoreapp3.1/VaribleExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/obj/Debug/netcoreapp3.1/VaribleExercise.AssemblyInfoInputs.cache
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/obj/Debug/netcoreapp3.1/VaribleExercise.AssemblyInfo.cs
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/obj/Debug/netcoreapp3.1/VaribleExercise.csproj.CoreCompileInputs.cache
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/bin/Debug/netcoreapp3.1/VaribleExercise.deps.json
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/bin/Debug/netcoreapp3.1/VaribleExercise.runtimeconfig.json
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/bin/Debug/netcoreapp3.1/VaribleExercise.runtimeconfig.dev.json
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/bin/Debug/netcoreapp3.1/VaribleExercise.dll
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/bin/Debug/netcoreapp3.1/VaribleExercise.pdb
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/obj/Debug/netcoreapp3.1/VaribleExercise.dll
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/obj/Debug/netcoreapp3.1/VaribleExercise.pdb
+/Users/michelleclemons/repos/VaribleExercise/VaribleExercise/obj/Debug/netcoreapp3.1/VaribleExercise.genruntimeconfig.cache
